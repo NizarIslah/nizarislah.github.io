@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at University of Montreal and Mila - Quebec AI Institute.
+I am a graduate student at University of Montreal and Mila - Quebec AI Institute.
 
 For more info
 ------
