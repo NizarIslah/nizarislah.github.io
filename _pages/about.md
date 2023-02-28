@@ -9,7 +9,3 @@ redirect_from:
 ---
 
 I am a graduate student at University of Montreal and Mila - Quebec AI Institute.
-
-For more info
-------
-Links here.
