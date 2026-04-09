@@ -8,16 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a 2nd year PhD student at Mila Quebec AI Institute in Montreal, supervised by Eilif Muller and Irina Rish (Universite de Montreal). My primary research interests are in a) developing novel algorithms and architectures which address the stability-plasticity tradeoff in neural networks, such that they can continually and efficiently accumulate knowledge and skills, and b) modelling the mechanisms that support continual learning in the human neocortex. Given the recent trend in foundation models and neural scaling laws, there is great interest in making these models continual learners, given that they are still prone to catastrophic forgetting, and training such models from scratch is incredibly wasteful. My goal is to bring insights from continual learning literature to addres some of the failure modes of these models to build agents which can effiently accumulate new information and capabilities. Outside of research, I love soccer and long-distance running.
+My research bridges **continual learning**, **reasoning**, and **interpretability**, with a focus on understanding when and why models succeed or fail in new and old environments, and how we can predict phenomena such as forgetting across scales and to varying degrees.
 
-My current projects follow these themes:
+By exploring reasoning tasks, I aim to uncover what internal computations are preserved and reused as a model continues to learn new tasks and acquire new skills and tools. The emphasis on interpretability provides a key window into better understanding the factors that lead to genuine forgetting or plasticity through characterization of the activation and weight space, and relating it back to the output distribution.
 
-1) Modular and sparse networks for continual learning (such as sparse Mixture-of-Experts)
-
-2) Multimodal (vision, language, code, etc) continual learning
-
-3) Designing challenging benchmarks to inspire new approaches for continual learning
-
-I am always open to collaborate or discuss ideas. Feel free to reach out to me via email, twitter, or slack.
+This direction is still preliminary work with a preprint along the way. Previously I have contributed to continual learning research on benchmarking prior coding knowledge and interference, continual pre‑training strategies, and test‑time learning. Ultimately, I view continual learning as a missing component that can shift models from “used and tossed” towards ever‑improving agents.
 
 
