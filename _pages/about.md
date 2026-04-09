@@ -12,6 +12,6 @@ My research bridges **continual learning**, **reasoning**, and **interpretabilit
 
 By exploring reasoning tasks, I aim to uncover what internal computations are preserved and reused as a model continues to learn new tasks and acquire new skills and tools. The emphasis on interpretability provides a key window into better understanding the factors that lead to genuine forgetting or plasticity through characterization of the activation and weight space, and relating it back to the output distribution.
 
-This direction is still preliminary work with a preprint along the way. Previously I have contributed to continual learning research on benchmarking prior coding knowledge and interference, continual pre‑training strategies, and test‑time learning. Ultimately, I view continual learning as a missing component that can shift models from “used and tossed” towards ever‑improving agents.
+This direction is still preliminary work with a preprint along the way. Previously I have contributed to continual learning research on benchmarking prior coding knowledge and interference, continual pre‑training strategies, and test‑time learning. Ultimately, continual learning is one of the key missing pieces that has the potential to transform the trend of models that are "used and tossed" after the next shiny model comes out, into ever‑improving agents.
 
 
