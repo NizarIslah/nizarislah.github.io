@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My research bridges **continual learning**, **reasoning**, and **interpretability**, with a focus on understanding when and why models succeed or fail in new and old environments, and how we can predict phenomena such as forgetting across scales and to varying degrees.
+I am a PhD candidate at UdeM/Mila. In my research, I focus on understanding the conditions under which models succeed or fail as they persistently transition between tasks/environments. I aim to develop frameworks capable of predicting phenomena such as forgetting (to varying degrees) and plasticity across scale.
 
-By exploring reasoning tasks, I aim to uncover what internal computations are preserved and reused as a model continues to learn new tasks and acquire new skills and tools. The emphasis on interpretability provides a key window into better understanding the factors that lead to genuine forgetting or plasticity through characterization of the activation and weight space, and relating it back to the output distribution.
+By exploring reasoning tasks, I investigate which internal computations are preserved and reused as a model acquires new skills and tools. With an emphasis on interpretability, I seek to provide a window into the factors that drive prior capability retention/degradation and plasticity (or lack thereof) through the characterization of the activation and weight space, while relating their internal dynamics back to the model's output distribution. This direction is still preliminary work, with a preprint currently in development.
 
-This direction is still preliminary work with a preprint along the way. Previously I have contributed to continual learning research on benchmarking prior coding knowledge and interference, continual pre‑training strategies, and test‑time learning. Ultimately, continual learning is one of the key missing pieces that has the potential to transform the trend of models that are "used and tossed" after the next shiny model comes out, into ever‑improving agents.
+Previously, I have contributed to continual learning research regarding benchmarking interference in prior coding knowledge, refining continual pre-training strategies, and exploring test-time learning. Throughout all of these projects, the aim has been consistent: find ways to improve models over time and better evaluate them over time. If we are to look at what the next generation of AI should be capable of, a key aspect will be to transform largely static models into agents that continually and persistently improve without erasing prior capacities.
 
 
